@@ -1,5 +1,9 @@
 # Sistema de Inventario
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-8-orange?logo=mysql)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Aplicación de escritorio desarrollada en **Python** para la gestión de productos utilizando una base de datos **MySQL** y una interfaz gráfica construida con **Tkinter**.
 
 Este proyecto permite realizar operaciones básicas de inventario como agregar, visualizar, actualizar y eliminar productos.
